@@ -1,0 +1,28 @@
+{
+  "name": "grepolis-storage",
+  "version": "0.0.1",
+  "description": "Grepolis Data Storage Library for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cryptobyte/node-grepolis-storage.git"
+  },
+  "keywords": [
+    "grepolis",
+    "nodejs",
+    "api-wrapper"
+  ],
+  "author": "Steven Wright <steven.wright@meeplabs.com> (https://lawlsec.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cryptobyte/node-grepolis-storage/issues"
+  },
+  "homepage": "https://github.com/Cryptobyte/node-grepolis-storage#readme",
+  "dependencies": {
+    "grepolis": "^0.1.1",
+    "mongoose": "^5.4.0"
+  }
+}
